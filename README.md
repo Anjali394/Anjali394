@@ -27,28 +27,6 @@ Currently at **SAP Labs India**, previously at **Athenahealth** — I've worked 
 
 ---
 
-## Experience
-
-**Developer** — SAP Labs India *(Mar 2025 – Present)*
-Building and optimizing backend services for enterprise applications using Node.js. Driving code quality through rigorous reviews and resolving critical production issues.
-
-**Developer Associate** — SAP Labs India *(Aug 2022 – Mar 2025)*
-Designed and developed backend services and APIs using Node.js, Java, Spring Boot, and SAP CAP. Delivered end-to-end features from requirements to production.
-
-**Associate Member of Technical Staff** — Athenahealth *(Jun 2021 – Aug 2022)*
-Built microservices for healthcare workflows (pre-authorization, medical coding, claim resolution) on AWS using Node.js, Java, and Spring Boot with React frontends.
-
-**Web Development Intern** — CRIS, Delhi *(Jun 2020 – Nov 2020)*
-Deployed web applications on Azure; developed enterprise reports using SAP Crystal Reports and SQL Server.
-
----
-
-## Education
-
-**B.Tech in Computer Science Engineering** — Banasthali Vidyapith, Jaipur *(2017–2021)* | CGPA: 7.88
-
----
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anjali--rajput-blue?logo=linkedin)](https://www.linkedin.com/in/anjali-rajput/)
